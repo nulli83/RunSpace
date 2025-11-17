@@ -1,2 +1,6 @@
 # RunSpace
-RunSpace is a browser-based platform where you can write, upload, and run code instantly. Merge multiple files into one project, get a shareable link, and collaborate through built-in chat. Fast, simple, and perfect for learning, testing, and prototyping.
+RunSpace is a place where code finally gets the freedom it deserves. Usually when you try to write or test something, it feels like everything is locked behind programs, installations, or rules that stop you from doing what you want. But RunSpace breaks those limits, because you can write, upload, and run your code directly on the website without anything holding you back.
+
+RunSpace was made because many people want to show their projects, test their ideas, or create something simple without spending hours fixing setups. Other platforms feel strict and complicated, but RunSpace lets you run your code instantly, almost like the platform wants you to experiment and be creative. People can also share a link to their project so others can see it, test it, and even chat with the creator, which makes it feel more alive and open.
+
+Some good things come from RunSpace because it gives people real freedom to code. But of course there are limits, like lower FPS and restricted code length, but these limits exist for a reason — to keep things safe, fast, and simple for everyone. RunSpace isn’t meant for huge games or heavy programs; it’s meant for quick ideas, learning, and testing, and that’s what makes it strong. It becomes a symbol of how coding can be easy and free when nothing stands in the way.
