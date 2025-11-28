@@ -1,5 +1,4 @@
-// compiler_multilang_ext.c - Stödjer C, C++, Python, Node, Java, C#, HTML
-// Kräver: gcc compiler_multilang_ext.c -o runner_server
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -16,7 +15,6 @@
 #define BS 65536 
 #define TMP_BASE "/tmp/online_code" // Basnamn för källfiler
 
-// --- Hjälpfunktioner ---
 
 static void die(const char *m) {
     perror(m);
